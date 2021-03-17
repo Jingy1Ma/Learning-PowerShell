@@ -563,3 +563,7 @@ TRUE
 - Start simple
 - Get-Help and Get-Command
 - [Leverage the Script Center](https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=TechNet-Gallery)
+
+
+## Reference
+[1] https://www.linkedin.com/learning/learning-powershell/
